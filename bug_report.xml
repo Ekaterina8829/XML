@@ -1,3 +1,11 @@
 <req>
-  <bug_report>BugReport</bug_report>
+<Bug_id> Номер бага</Bug_id >
+<Summary> Заголовок </Summary>
+<Severity> Серьезность </Severity>
+<Priority> Приоритет </Priority>
+<Environment> Окружение</Environment >
+<Steps to Reproduce> Шаги воспроизведения </Steps to Reproduce>
+<Actual Result> Фактический Результат <Actual Result>
+<Expected Result> Ожидаемый результат </Expected Result>
+<Attachments> Вложения </Attachments >
 </req>
